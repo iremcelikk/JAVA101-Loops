@@ -8,3 +8,5 @@ Examples of Java Loops
 3-PowersOf4And5 -> Description: Shows the powers of 4 and 5 up to the entered number
 
 4-Combination -> Description: Calculates combination of n and r numbers
+
+5-FindPowerOfANumber -> Description: Finds the entered power of entered number

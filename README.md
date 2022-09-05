@@ -14,3 +14,7 @@ Examples of Java Loops
 6-ArmstrongNumbers -> Description: Shows the armstrong numbers up to 10000
 
 7-HarmonicSeries -> Description: Shows the harmonic series of entered number
+
+8-StarsShape -> Description: Makes the shape with stars according to entered number
+
+9-StarsDiamondShape -> Description: Makes the diamond shape with stars according to entered number

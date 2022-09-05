@@ -10,3 +10,5 @@ Examples of Java Loops
 4-Combination -> Description: Calculates combination of n and r numbers
 
 5-FindPowerOfANumber -> Description: Finds the entered power of entered number
+
+6-ArmstrongNumbers -> Description: Shows the armstrong numbers up to 10000

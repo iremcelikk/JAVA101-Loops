@@ -18,3 +18,5 @@ Examples of Java Loops
 8-StarsShape -> Description: Makes the shape with stars according to entered number
 
 9-StarsDiamondShape -> Description: Makes the diamond shape with stars according to entered number
+
+10-ATMMachine -> Description: Example of an ATM machine operations

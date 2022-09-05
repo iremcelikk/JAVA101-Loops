@@ -22,3 +22,5 @@ Examples of Java Loops
 10-ATMMachine -> Description: Example of an ATM machine operations
 
 11-GCD_LCM__EBOB_EKOK -> Description: Finds GCD(Greatest Common Divisor) and LCM(Lowest Common Multiple) of entered 2 numbers
+
+12-GreatestLowestNumber -> Description: Finds the greatest and lowest number of entered number until a negative number entered

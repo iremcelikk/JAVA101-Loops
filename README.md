@@ -12,3 +12,5 @@ Examples of Java Loops
 5-FindPowerOfANumber -> Description: Finds the entered power of entered number
 
 6-ArmstrongNumbers -> Description: Shows the armstrong numbers up to 10000
+
+7-HarmonicSeries -> Description: Shows the harmonic series of entered number

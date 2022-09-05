@@ -37,6 +37,6 @@ public class GCD_LCM__EBOB_EKOK {
 			}
 			i++;
 		}
-		System.out.println("GCD of " + small + " and " + big + " is ->" + lcm);
+		System.out.println("LCM of " + small + " and " + big + " is ->" + lcm);
 	}
 }

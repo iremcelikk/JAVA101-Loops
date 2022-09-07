@@ -30,3 +30,5 @@ Examples of Java Loops
 14-StarsInvertedTriangle -> Description: Draws an inverted triangle based on the entered number
 
 15-PrimeNumbers -> Description: Writes prime numbers between 1 and 100
+
+16-Fibonacci -> Description: Writes Fibonacci Sequence according to entered number

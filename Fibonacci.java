@@ -18,4 +18,3 @@ public class Fibonacci {
 	}
 
 }
-//Writes Fibonacci Sequence according to entered number

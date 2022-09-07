@@ -26,3 +26,5 @@ Examples of Java Loops
 12-GreatestLowestNumber -> Description: Finds the greatest and lowest number of entered number until a negative number entered
 
 13-PerfectNumbers -> Description: Finds whether the entered number is a perfect number
+
+14-StarsInvertedTriangle -> Description: Draws an inverted triangle based on the entered number

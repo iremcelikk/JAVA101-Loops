@@ -28,3 +28,5 @@ Examples of Java Loops
 13-PerfectNumbers -> Description: Finds whether the entered number is a perfect number
 
 14-StarsInvertedTriangle -> Description: Draws an inverted triangle based on the entered number
+
+15-PrimeNumbers -> Description: Writes prime numbers between 1 and 100
